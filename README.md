@@ -38,7 +38,7 @@ For all the animal prefabs and food in th inspector (below the layer ) drop down
 
 ### SPAWN MANAGER:
 
-```C#
+```
 
 using System.Collections;
 using System.Collections.Generic;
@@ -75,7 +75,7 @@ public class spawnmanager : MonoBehaviour
 
 ### DETECT COLLIDER:
 
-```C#
+```
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
